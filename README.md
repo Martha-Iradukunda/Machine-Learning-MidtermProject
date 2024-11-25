@@ -11,7 +11,9 @@
  - Naive Bayes classifier
  - Random Forest classifier
  - The model Training was done on google colab:
--Sample google colab link: https://colab.research.google.com/drive/1EMrWAcKGUyfRmiM-OR_J7EeAm_SolpLL?usp=sharing
+-Sample google colab link:
+https://colab.research.google.com/drive/1ZM4ciua7DzQPfqgGlyej3XFEpocUo86V?usp=sharing
+
  - Sample output
    ![image](https://github.com/user-attachments/assets/16fb45a6-bcf9-4bad-b2f1-cc2970ecd9ea)
 
